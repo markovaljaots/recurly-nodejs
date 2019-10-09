@@ -1,5 +1,9 @@
 # Change Log
 
+## v3.3.0 - 2019-10-09
+
+* added additional config options
+
 ## v3.2.0 - 2019-04-12
 
 * add support for filters to subscriptions.listByAccount #45 [thomas-hilaire]

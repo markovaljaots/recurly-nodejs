@@ -14,6 +14,8 @@ Add a config file to your project that has contents similar to:
 ```javascript
 module.exports = {
   API_KEY: 'secret',
+  HOST: 'recurly.com',
+  PORT: 443,
   SUBDOMAIN:    '[your_account]',
   ENVIRONMENT:  'sandbox',
   DEBUG: false,

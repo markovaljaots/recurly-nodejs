@@ -6,7 +6,7 @@
     "e-commerce",
     "recurring billing"
   ],
-  "version": "3.2.0",
+  "version": "3.3.0",
   "homepage": "https://github.com/markovaljaots/recurly-nodejs",
   "author": "Rob Righter <robrighter@gmail.com> (http://github.com/robrighter)",
   "contributors": [
